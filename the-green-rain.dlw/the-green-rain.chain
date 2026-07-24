@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1497
+slug  : the-green-rain
+seal  : c83332b6374db0637908b20d0f43ecd519e5f60c43308d2e598db6d5e239c336
+prev  : 70085c59ccd40ce6e08491d5a355211de0b463dd70c47a41703e5960d4f2c52c
+link  : 2f8dd193368ac16c876bdcd8b76d5c3bb4ffe7e1a326b90805b63f407933befe
+head  : 62b19e49d2e36e2970d86ebcefee877c72c5a21450bf3285cc58138192bdd9e2
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
